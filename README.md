@@ -37,4 +37,6 @@ Digite o valor a ser convertido de USD para BRL: 100
 
 Resultado: 100.00 USD = 508.00 BRL
 
+## Chave API
+- Troque na classe TaxaConversao o valor da variável apiK, String apiK = "Coloque_Sua_Chave_Aqui";, pela chave adquirida no site da exchangerate
 
